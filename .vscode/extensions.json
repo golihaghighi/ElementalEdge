@@ -1,0 +1,19 @@
+{
+    "recommendations": [
+        "sdras.night-owl",          // Night Owl theme
+        "PKief.material-icon-theme", // Material Icon Theme
+        "bmewburn.vscode-intelephense-client", // PHP IntelliSense
+        "felixfbecker.php-debug",             // PHP Debug
+        "dbaeumer.vscode-eslint",             // ESLint for JavaScript
+        "stylelint.vscode-stylelint",         // Stylelint for CSS
+        "esbenp.prettier-vscode",             // Prettier formatter
+        "ikappas.phpcs",                      // PHP CodeSniffer
+        "editorconfig.editorconfig",          // EditorConfig
+        "austenc.vscode-blade-spacer",        // Blade formatter for Laravel (if using WordPress with Blade)
+        "brapifra.phpserver",                 // PHP Server
+        "octref.vetur",                       // Vue tooling (if using Vue.js)
+        "wix.vscode-import-cost",             // Display import/require package size
+        "wordpressdotorg.wordpress",          // WordPress Extension
+        "ms-azuretools.vscode-docker"         // Docker (if using Docker in development)
+    ]
+}

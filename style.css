@@ -1,0 +1,23 @@
+/*
+Theme Name: ElementalEdge
+Theme URI: https://webmastersolve.com/elementaledge
+Author: Afshin Haghighi
+Author URI: http://webmastersolve.com
+Description: A WordPress theme blending speed, customizability, and user-friendly design. Optimized for Elementor, it offers extensive customization, responsive layouts, SEO friendliness, and pre-built templates for effortless web creation.
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: elementaledge
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #fff;
+    color: #333;
+}
+
+/* Additional CSS here */
